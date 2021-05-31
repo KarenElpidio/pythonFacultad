@@ -2,5 +2,5 @@
 
 ### PROGRAMACIÓN I - UNIVERSIDAD NACIONAL DE AVELLANEDA 
 
-## *** Trabajo práctico grupal ***
+## ***Trabajo práctico grupal***
 
